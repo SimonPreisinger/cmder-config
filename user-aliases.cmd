@@ -31,3 +31,5 @@ gco=git checkout $*
 gcob=git checkout -b $*  
 gd=git diff $*  
 gf=git fetch $*  
+gi=git init  
+gaa=git add .  
